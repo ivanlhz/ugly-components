@@ -1,0 +1,20 @@
+{
+  "name": "ugly-components",
+  "version": "1.0.3",
+  "description": "Export testing components",
+  "main": "index.js",
+  "author":{
+    "email": "ivanlhz@gmail.com",
+    "name": "Iván López Hdez"
+  },
+  "keywords": [
+    "react",
+    "components",
+    "parcel-bundler"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  }
+}
